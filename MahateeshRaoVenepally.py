@@ -1,4 +1,4 @@
-__author__ = "Mahateesh"
+__author__ = "Mahateesh Rao Venepally"
 
 # importing the libraries
 import findspark
