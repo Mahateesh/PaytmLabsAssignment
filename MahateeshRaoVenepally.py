@@ -1,4 +1,5 @@
 __author__ = "Mahateesh Rao Venepally"
+__purpose__ = "interview"
 
 # importing the libraries
 import findspark
